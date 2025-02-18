@@ -2,9 +2,7 @@ body {
     background-color: var(--bg-body);
     text-transform: uppercase;
 }
-.sign{
-    mix-blend-mode: multiply;
-}
+
 ul,
 ol {
     list-style-type: none;
