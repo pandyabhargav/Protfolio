@@ -2,7 +2,11 @@ body {
     background-color: var(--bg-body);
     text-transform: uppercase;
 }
-
+.offcanvas-body {
+    flex-grow: 1;
+    padding: 1rem 1rem;
+    overflow-y: initial;
+}
 ul,
 ol {
     list-style-type: none;
